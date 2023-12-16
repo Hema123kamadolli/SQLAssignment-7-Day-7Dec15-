@@ -1,0 +1,7 @@
+C:\SQLExercises\Assignment-7\ConAppASSIGNMENT-7\ConAppASSIGNMENT-7\bin\Debug\ConAppASSIGNMENT-7.exe.config
+C:\SQLExercises\Assignment-7\ConAppASSIGNMENT-7\ConAppASSIGNMENT-7\bin\Debug\ConAppASSIGNMENT-7.exe
+C:\SQLExercises\Assignment-7\ConAppASSIGNMENT-7\ConAppASSIGNMENT-7\bin\Debug\ConAppASSIGNMENT-7.pdb
+C:\SQLExercises\Assignment-7\ConAppASSIGNMENT-7\ConAppASSIGNMENT-7\obj\Debug\ConAppASSIGNMENT-7.csproj.AssemblyReference.cache
+C:\SQLExercises\Assignment-7\ConAppASSIGNMENT-7\ConAppASSIGNMENT-7\obj\Debug\ConAppASSIGNMENT-7.csproj.CoreCompileInputs.cache
+C:\SQLExercises\Assignment-7\ConAppASSIGNMENT-7\ConAppASSIGNMENT-7\obj\Debug\ConAppASSIGNMENT-7.exe
+C:\SQLExercises\Assignment-7\ConAppASSIGNMENT-7\ConAppASSIGNMENT-7\obj\Debug\ConAppASSIGNMENT-7.pdb
